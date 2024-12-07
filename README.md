@@ -1,4 +1,4 @@
-# Video Caption Generation Using Deep Learning and NLP
+# VisionVoice: Bridging Media and Language
 
 ## Project Description
 
